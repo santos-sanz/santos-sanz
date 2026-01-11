@@ -1,6 +1,6 @@
 <!-- Header with animated banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Santos%20Sanz&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Andrés%20Santos%20Sanz&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Product%20Developer&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <!-- Main badges -->
@@ -23,9 +23,9 @@
 ## 🎯 About Me
 
 ```python
-class SantosSanz:
+class AndresSantosSanz:
     def __init__(self):
-        self.name = "Santos Sanz"
+        self.name = "Andrés Santos Sanz"
         self.role = "AI Engineer & Data Analyst"
         self.location = "Extremadura, Spain 🇪🇸"
         self.interests = [
@@ -183,9 +183,8 @@ Entrepreneurship:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
   
-  <p><i>💡 "Building the future with AI, one line of code at a time"</i></p>
+  <p><i>"The best way to predict the future is to create it."</i></p>
   
-  ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
   ![Open Source](https://img.shields.io/badge/Open%20Source-💚-success?style=flat-square)
   ![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet?style=flat-square)
   
