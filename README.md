@@ -1,5 +1,5 @@
 <!-- Header with animated banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Andrés%20Santos%20Sanz&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Product%20Developer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Andrés%20Santos%20Sanz&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Enthusiast%20%7C%20Data%20Analyst%20%7C%20Product%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Main badges -->
 <div align="center">
