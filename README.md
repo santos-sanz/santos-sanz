@@ -1,5 +1,7 @@
 <!-- Header with animated banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Andrés%20Santos%20Sanz&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Enthusiast%20%7C%20Data%20Analyst%20%7C%20Product%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,100:764ba2&amp;height=200&amp;section=header&amp;text=Andr%C3%A9s%20Santos%20Sanz&amp;fontSize=60&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Applied%20AI%20%40%20Bit2Me%20%7C%20ex-Revolut%20%7C%20AI-assisted%20builder&amp;descAlignY=55&amp;descSize=20" width="100%"/>
+</div>
 
 <!-- Main badges -->
 <div align="center">
@@ -12,8 +14,8 @@
 </div>
 
 <div align="center">
-  <h3>Data & Growth professional by day | AI-assisted builder by hobby</h3>
-  <p><i>I use AI-assisted development to prototype ideas, learn faster, and stay current with new tech.</i></p>
+  <h3>Applied AI @ Bit2Me | ex-Revolut | AI-assisted builder</h3>
+  <p><i>I build practical AI agents, apps, and workflows to help teams move faster.</i></p>
 </div>
 
 ---
@@ -27,15 +29,15 @@ I build mainly as a hobby, and I use AI-assisted development as a practical way 
 - turn ideas into small working prototypes,
 - and keep learning in public while staying up to date.
 
-Most of what I build here are learning projects, experiments, and tools that help me think better about product, data, and automation.
+Most of what I build here are learning projects, experiments, and tools that help me think better about applied AI, product, data, and automation.
 
 ---
 
 ## Professional Context
 
-- **Current role:** Data & Growth @ Revolut.
-- **Background:** experience across Revolut, Amazon, and Zennio.
-- **Common ground with this repo:** data thinking, process improvement, and hands-on problem solving.
+- **Current role:** Applied AI Lead @ Bit2Me.
+- **Background:** experience across Bit2Me, Revolut, Amazon, and Zennio.
+- **Common ground with this repo:** applied AI, data thinking, process improvement, and hands-on problem solving.
 
 ---
 
