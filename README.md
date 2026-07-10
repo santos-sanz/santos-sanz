@@ -1,161 +1,59 @@
-<!-- Header with animated banner -->
+<!-- Profile hero -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,100:764ba2&amp;height=200&amp;section=header&amp;text=Andr%C3%A9s%20Santos%20Sanz&amp;fontSize=60&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Applied%20AI%20%40%20Bit2Me%20%7C%20ex-Revolut%20%7C%20AI-assisted%20builder&amp;descAlignY=55&amp;descSize=20" width="100%"/>
-</div>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:667eea,100:764ba2&amp;height=200&amp;section=header&amp;text=Andr%C3%A9s%20Santos%20Sanz&amp;fontSize=58&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Applied%20AI%20%C2%B7%20Workflows%20%C2%B7%20Automation&amp;descAlignY=55&amp;descSize=20"
+    alt="Andrés Santos Sanz — Applied AI, workflows and automation"
+    width="100%"
+  />
 
-<!-- Main badges -->
-<div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=santos-sanz&color=blueviolet&style=flat-square)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressantossanz/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santossanzandres@gmail.com)
-  ![Location](https://img.shields.io/badge/Extremadura-Spain-red?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNiAzNiI+PHBhdGggZmlsbD0iI0VBQTYxQSIgZD0iTTAgMEgzNlYzNkgweiIvPjxwYXRoIGZpbGw9IiNDNjBDMzAiIGQ9Ik0wIDBoMzZ2OSIvPjwvc3ZnPg==)
-
-</div>
-
-<div align="center">
-  <h3>Applied AI @ Bit2Me | ex-Revolut | AI-assisted builder</h3>
-  <p><i>I build practical AI agents, apps, and workflows to help teams move faster.</i></p>
-</div>
-
----
-
-## About Me
-
-I do not see myself as someone who has mastered every language in this README.
-
-I build mainly as a hobby, and I use AI-assisted development as a practical way to:
-- explore new technologies quickly,
-- turn ideas into small working prototypes,
-- and keep learning in public while staying up to date.
-
-Most of what I build here are learning projects, experiments, and tools that help me think better about applied AI, product, data, and automation.
-
----
-
-## Professional Context
-
-- **Current role:** Applied AI Lead @ Bit2Me.
-- **Background:** experience across Bit2Me, Revolut, Amazon, and Zennio.
-- **Common ground with this repo:** applied AI, data thinking, process improvement, and hands-on problem solving.
-
----
-
-## Tech Stack
-
-These are tools I use in practice and keep exploring through projects.
-
-<details>
-<summary><b>Tools I use often</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-Also used in analytics workflows: **Looker, BigQuery, Airflow, GA4, Google Sheets, Excel/VBA**.
-
-</details>
-
-<details>
-<summary><b>Tools I explore in projects</b></summary>
-<br>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![MLX](https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</details>
-
----
-
-## Current Projects
-
-| Project | Type | Description |
-|---------|------|-------------|
-| AI Agents | Experiment | AI-assisted prototypes for agent workflows and LLM tooling. |
-| iOS Apps | Learning project | Small native app ideas to improve Swift and product thinking. |
-| Automation | Prototype | Practical automations to simplify repetitive workflows. |
-| Fintech/Data | Learning build | Analytics-focused side projects to test product and growth ideas. |
-
----
-
-## What I'm Learning by Building
-
-```yaml
-AI_assisted_development:
-  - prompt-driven prototyping
-  - practical LLM integrations
-  - iteration speed with human review
-
-Data_and_growth_thinking:
-  - SQL/Python analysis workflows
-  - experiment mindset (funnels, cohorts, segmentation)
-  - decision support for product ideas
-
-Product_and_automation:
-  - turning ideas into small useful tools
-  - workflow simplification with scripts and automations
-  - balancing speed, clarity, and maintainability
-```
-
----
-
-## Learning Highlights
-
-<div align="center">
-
-| Focus | Current direction |
-|------|-------------------|
-| AI-assisted development | Building and iterating prototypes |
-| Data + product mindset | Applying analytics to practical ideas |
-| iOS and automation | Learning through side projects |
-| Continuous learning | Exploring new tools and workflows |
-
+  <p><strong>Applied AI Lead @ Bit2Me · ex-Revolut · Based in Spain</strong></p>
+  <p>
+    I turn AI, data, and automation into practical systems that help teams<br />
+    make better decisions, remove repetitive work, and ship reliable workflows.
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/in/andressantossanz/">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:santossanzandres@gmail.com">Email</a>
+  </p>
 </div>
 
 ---
 
-## Let's Connect
+## Building AI that works beyond the demo
 
-<div align="center">
+My work sits at the intersection of **applied AI, product judgment, data, and
+operations**. I focus on useful systems: tools that fit real workflows, make
+their constraints explicit, and can be reviewed and verified by the people who
+depend on them.
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressantossanz/)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santossanzandres@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santos-sanz)
+## Selected work
 
-</div>
+| Project | What it demonstrates |
+| --- | --- |
+| **[Lifeskills](https://github.com/santos-sanz/lifeskills)**<br><sub>AI for practical business work</sub> | Reusable agent skills for communication, strategy, negotiation, and influence. |
+| **[AI Dev Workflow](https://github.com/santos-sanz/ai-dev-workflow)**<br><sub>Agentic software delivery</sub> | A practical operating system for building software with Codex, Claude Code, OpenCode, and Cursor. |
+| **[Agent Guardrails Template](https://github.com/santos-sanz/agent-guardrails-template)**<br><sub>Reliability by design</sub> | Guardrails, quality gates, and executable verification loops for dependable agent workflows. |
+| **[MLX LoRA Fine-tune Template](https://github.com/santos-sanz/mlx-lora-finetune-template)**<br><sub>Open-source technical depth</sub> | An end-to-end workflow for fine-tuning LLMs with LoRA on Apple Silicon. |
+| **[Doom Slayer](https://github.com/santos-sanz/doom-slayer)**<br><sub>Private, on-device AI</sub> | A browser-based focus assistant using MediaPipe and TensorFlow.js with no backend. |
+| **[DataClaw](https://github.com/santos-sanz/dataclaw)**<br><sub>Agents for data work</sub> | A Kaggle query agent that runs SQL on DuckDB and falls back to Python when needed. |
 
-<div align="center">
-  <br>
-  <p><b>Open to conversations about AI-assisted workflows, analytics, and side projects.</b></p>
-</div>
+## How I build
 
----
+- **Outcome first:** start with a workflow, decision, or user problem—not a model.
+- **Human in the loop:** increase leverage while keeping review and accountability.
+- **Reliable by design:** use explicit constraints, quality gates, and verification loops.
+- **Proof over claims:** prefer small working artifacts to abstract opinions.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
+## Focus
 
-  <p><i>Build, learn, iterate, repeat.</i></p>
+`AI agents` · `workflow automation` · `LLM applications` · `data & operations`<br>
+`product experimentation` · `AI-assisted development` · `agent reliability`
 
-  ![Open Source](https://img.shields.io/badge/Open%20Source-💚-success?style=flat-square)
-  ![AI Assisted](https://img.shields.io/badge/AI-Assisted-blueviolet?style=flat-square)
+## Let's connect
 
-</div>
+I am always interested in thoughtful conversations about applied AI, reliable
+agent workflows, product experimentation, and automation for teams.
+
+**[Connect on LinkedIn](https://www.linkedin.com/in/andressantossanz/)** ·
+**[Send me an email](mailto:santossanzandres@gmail.com)**
