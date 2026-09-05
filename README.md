@@ -26,6 +26,8 @@ My work sits at the intersection of **applied AI, product judgment, data, and
 operations**. I focus on useful systems: tools that fit real workflows, make
 their constraints explicit, and can be reviewed and verified by the people who
 depend on them.
+Most of what I ship is TypeScript: LLM agents, the evals that keep them
+honest, and the workflow tooling around them.
 
 ## Selected work
 
@@ -35,8 +37,10 @@ depend on them.
 | **[AI Dev Workflow](https://github.com/santos-sanz/ai-dev-workflow)**<br><sub>Agentic software delivery</sub> | A practical operating system for building software with Codex, Claude Code, OpenCode, and Cursor. |
 | **[Agent Guardrails Template](https://github.com/santos-sanz/agent-guardrails-template)**<br><sub>Reliability by design</sub> | Guardrails, quality gates, and executable verification loops for dependable agent workflows. |
 | **[MLX LoRA Fine-tune Template](https://github.com/santos-sanz/mlx-lora-finetune-template)**<br><sub>Open-source technical depth</sub> | An end-to-end workflow for fine-tuning LLMs with LoRA on Apple Silicon. |
-| **[Doom Slayer](https://github.com/santos-sanz/doom-slayer)**<br><sub>Private, on-device AI</sub> | A browser-based focus assistant using MediaPipe and TensorFlow.js with no backend. |
 | **[DataClaw](https://github.com/santos-sanz/dataclaw)**<br><sub>Agents for data work</sub> | A Kaggle query agent that runs SQL on DuckDB and falls back to Python when needed. |
+| **[MarketBench](https://github.com/santos-sanz/marketbench)**<br><sub>Agent evals under pressure</sub> | A reproducible WebMCP benchmark where a browser agent runs a deterministic vending market, with every tool call recorded and scored. [Live demo](https://marketbench.vercel.app). |
+| **[n8n Workflows](https://github.com/santos-sanz/n8n-workflows)**<br><sub>Production automation</sub> | The production n8n workflows I run, including a 26-node agentic archivist with LLM orchestration, approvals, and memory. |
+| **[Engineering, When Code Gets Cheap](https://github.com/santos-sanz/engineering-when-code-gets-cheap)**<br><sub>Research & roadmaps</sub> | An evidence-based roadmap for engineers and technical founders as coding agents improve, across 6, 15, and 36-month horizons. |
 
 ## How I build
 
