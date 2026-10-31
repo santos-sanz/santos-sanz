@@ -6,7 +6,7 @@
     width="100%"
   />
 
-  <p><strong>Applied AI Lead @ Bit2Me · ex-Revolut · Based in Spain</strong></p>
+  <p><strong>Applied AI Engineer · ex-Revolut · Based in Spain</strong></p>
   <p>
     I turn AI, data, and automation into practical systems that help teams<br />
     make better decisions, remove repetitive work, and ship reliable workflows.
